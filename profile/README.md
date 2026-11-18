@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/officialmscph"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="MSC PH on Facebook" /></a>
-  <a href="https://www.instagram.com/officialmscph"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="MSC PH on Instagram" /></a>
-  <a href="https://www.linkedin.com/company/officialmscph"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPgo=" alt="MSC PH on LinkedIn" /></a>
-  <a href="https://github.com/MSC-Philippines"><img src="https://img.shields.io/badge/GitHub-0B3FB0?style=for-the-badge&logo=github&logoColor=white" alt="MSC PH on GitHub" /></a>
+  <a href="https://www.facebook.com/officialmscph"><img src="https://raw.githubusercontent.com/MSC-Philippines/.github/main/assets/icons/facebook.svg" width="40" height="40" alt="MSC PH on Facebook" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/officialmscph"><img src="https://raw.githubusercontent.com/MSC-Philippines/.github/main/assets/icons/instagram.svg" width="40" height="40" alt="MSC PH on Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/company/officialmscph"><img src="https://raw.githubusercontent.com/MSC-Philippines/.github/main/assets/icons/linkedin.svg" width="40" height="40" alt="MSC PH on LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/MSC-Philippines"><img src="https://raw.githubusercontent.com/MSC-Philippines/.github/main/assets/icons/github.svg" width="40" height="40" alt="MSC PH on GitHub" /></a>
 </p>
 
 ## About Microsoft Student Community Philippines
@@ -38,6 +38,7 @@
 | **Membership** | Officers only. General membership is through local MSC chapters at universities. |
 | **Focus areas** | Microsoft skills, the Microsoft Student Ambassadors (MSA) program, campus tech communities |
 | **Events held** | 6 |
+| **Partners** | 3 MVP partners and 11 Microsoft student community partners |
 | **Official channels** | [Facebook](https://www.facebook.com/officialmscph) · [Instagram](https://www.instagram.com/officialmscph) · [LinkedIn](https://www.linkedin.com/company/officialmscph) · [GitHub](https://github.com/MSC-Philippines) |
 
 </div>
@@ -79,6 +80,44 @@
 | 4 | **Microsoft Student Community Philippines Meetup II** | TBA | TBA | [![View repository](https://img.shields.io/badge/View_Repo-0B3FB0?style=flat-square&logo=github&logoColor=white)](https://github.com/MSC-Philippines/msc-ph-meetup-2) |
 | 5 | **Microsoft Student Ambassadors 2026 Q3 Onboarding** | TBA | TBA | [![View repository](https://img.shields.io/badge/View_Repo-0B3FB0?style=flat-square&logo=github&logoColor=white)](https://github.com/MSC-Philippines/msa-2026-q3-onboarding) |
 | 6 | **.NET Conf Manila Local 2026** | TBA | TBA | [![View repository](https://img.shields.io/badge/View_Repo-0B3FB0?style=flat-square&logo=github&logoColor=white)](https://github.com/MSC-Philippines/dotnet-conf-manila-2026) |
+
+</div>
+
+## Our Partners
+
+<p align="center">
+  MSC PH works alongside Microsoft MVP-led communities and Microsoft student communities across the Philippines.
+</p>
+
+### MVP Partners
+
+<div align="center">
+
+| Partner | Page |
+|:--|:-:|
+| **Microsoft Azure Community Philippines** | [Facebook](https://www.facebook.com/MicrosoftAzurePH) |
+| **Power BI Pilipinas** | [Facebook](https://www.facebook.com/powerbipilipinas) |
+| **Techbayanihan** | [Facebook](https://www.facebook.com/Techbayanihan) |
+
+</div>
+
+### MSA / Student Community Partners
+
+<div align="center">
+
+| Community | University | Page |
+|:--|:--|:-:|
+| **Microsoft Student Community** | Intramuros (formerly PLM) | [Facebook](https://www.facebook.com/plmmsc) |
+| **Microsoft Student Community** | De La Salle University (DLSU) | [Facebook](https://www.facebook.com/DLSUMSC) |
+| **Microsoft Student Community** | Asia Pacific College (APC) | [Facebook](https://www.facebook.com/APCMSC) |
+| **Microsoft Student Community** | Lyceum of the Philippines University Batangas (LPU-B) | [Facebook](https://www.facebook.com/LPUBMSC) |
+| **Microsoft Student Community** | Bulacan State University (BulSU) | [Facebook](https://www.facebook.com/bulsu.officialmsc) |
+| **Microsoft Campus Club** | Polytechnic University of the Philippines (PUP) | [Facebook](https://www.facebook.com/PUPMSC) |
+| **Microsoft Student Community** | National University Dasmariñas (NUD) | [Facebook](https://www.facebook.com/MSCNUD) |
+| **Microsoft Student Community** | National University Laguna (NU Laguna) | [Facebook](https://www.facebook.com/mscnulaguna) |
+| **Microsoft Student Community** | Quezon City University (QCU) | [Facebook](https://www.facebook.com/MicrosoftStudentCommunityQCU) |
+| **Microsoft Student Community** | University of San Carlos (SC) | [Facebook](https://www.facebook.com/profile.php?id=61594018483022) |
+| **Microsoft Student Community** | Colegio de Montalban (CdM) | [Facebook](https://www.facebook.com/profile.php?id=61594426612456) |
 
 </div>
 
@@ -134,13 +173,19 @@ MSC PH has organized Microsoft Student Community Philippines Meetup I, Microsoft
 Aside from these MSC PH initiatives, local MSC chapters at universities across the Philippines also organize their own events. Reach out to the chapter at your university to find out what's coming up.
 </details>
 
+<details>
+<summary><b>Which communities does MSC PH partner with?</b></summary>
+<br />
+MSC PH partners with three MVP communities: Microsoft Azure Community Philippines, Power BI Pilipinas, and Techbayanihan. Its Microsoft Student Ambassador and student community partners are Microsoft Student Community - Intramuros (formerly PLM), Microsoft Student Community - De La Salle University (DLSU), Microsoft Student Community - Asia Pacific College (APC), Microsoft Student Community - Lyceum of the Philippines University Batangas (LPU-B), Microsoft Student Community - Bulacan State University (BulSU), Microsoft Campus Club - Polytechnic University of the Philippines (PUP), Microsoft Student Community - National University Dasmariñas (NUD), Microsoft Student Community - National University Laguna (NU Laguna), Microsoft Student Community - Quezon City University (QCU), Microsoft Student Community - University of San Carlos (SC), and Microsoft Student Community - Colegio de Montalban (CdM).
+</details>
+
 ## Contributors
 
 <table align="center">
   <tr>
     <td align="center">
       <a href="https://github.com/r0undy">
-        <img src="https://github.com/r0undy.png?size=100" width="80" alt="r0undy" /><br />
+        <img src="https://images.weserv.nl/?url=github.com/r0undy.png&amp;w=160&amp;h=160&amp;fit=cover&amp;mask=circle&amp;maxage=7d" width="80" height="80" alt="r0undy" /><br />
         <sub><b>r0undy</b></sub>
       </a>
     </td>
@@ -150,7 +195,6 @@ Aside from these MSC PH initiatives, local MSC chapters at universities across t
 <br />
 
 <p align="center">
-  <b>Achieve more. Be a force for good.</b><br />
   <sub>This GitHub organization is maintained by the <b>Technology Department</b> of Microsoft Student Community Philippines (MSC PH).</sub>
 </p>
 
